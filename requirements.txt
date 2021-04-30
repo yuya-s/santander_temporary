@@ -1,0 +1,8 @@
+keras == 2.1.5
+matplotlib
+scikit-learn == 0.19.2
+statsmodels
+pandas
+numpy
+scipy
+folium
